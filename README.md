@@ -1,7 +1,9 @@
 
 
 
-![LinkedIn Banner](" ")
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ksutar279-collab/Komal-Sutar/main/linkedin-banner.png.png" alt="LinkedIn Banner">
+</p>
 <h1 align="center">Hi 👋, I'm Komal Santosh Sutar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
