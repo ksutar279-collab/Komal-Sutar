@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/ksutar279-collab/Komal-Sutar/main/linkedin-banner.png.png" alt="LinkedIn Banner">
 </p>
@@ -28,10 +29,10 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksutar279-collab&show_icons=true&locale=en&layout=compact" alt="ksutar279-collab" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksutar279-collab&show_icons=true&locale=en" alt="ksutar279-collab" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksutar279-collab&show_icons=true&locale=en&layout=compact" alt="ksutar279-collab"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ksutar279-collab&show_icons=true&locale=en" alt="ksutar279-collab"/>
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksutar279-collab&" alt="ksutar279-collab" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ksutar279-collab&" alt="ksutar279-collab"/>
 </p>
